@@ -1,0 +1,19 @@
+{
+  "name": "greektrust",
+  "version": "0.0.0",
+  "description": "nothing is changed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnParikshit/GreekTrust.git"
+  },
+  "author": "Prasad Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnParikshit/GreekTrust/issues"
+  },
+  "homepage": "https://github.com/SnParikshit/GreekTrust#readme"
+}
